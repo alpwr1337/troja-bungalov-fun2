@@ -1,0 +1,680 @@
+Uri: https://polyfill.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-14
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_4913fd9ffdb71751ef2d363a6e26fa8c_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-19
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_e014205040d2f0ed85d4c68de97ec4b1_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-15
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_181b1dc38d1b66b6fb3978caa3167c37_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_5aae1f5eac688d3c59fcc16e5823e735_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_695f479346ce2a2c78e45ac8827ef1fb_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-17
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_d0ddfa7dfbeb93ec039f049f1ff74f1b_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-12
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_4913fd9ffdb71751ef2d363a6e26fa8c_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-18
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer%2Cdm_screenInBehaviorsToEntranceEffectsFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_e014205040d2f0ed85d4c68de97ec4b1_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-13
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_181b1dc38d1b66b6fb3978caa3167c37_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_5aae1f5eac688d3c59fcc16e5823e735_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_695f479346ce2a2c78e45ac8827ef1fb_136.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-16
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_d0ddfa7dfbeb93ec039f049f1ff74f1b_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.2606.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=d55e3c74.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&languageResolutionMethod=QueryParam&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-features&originalLanguage=tr&pageId=2d5fff_ee45737f278b5bbd21e06a51bc96a7d1_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_2a66d80385e09a21aa04400a810d2aa6_141.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"18"}&beckyExperiments=specs.thunderbolt.supportSpxInEEMappers:true%2Cspecs.thunderbolt.one_cell_grid_display_flex:true%2Cspecs.thunderbolt.MediaContainerAndPageBackgroundMapper:true%2Cspecs.thunderbolt.catharsis_theme_optimize_css:true%2Cspecs.thunderbolt.WRichTextSemanticClasses:true%2Cspecs.thunderbolt.hamburgerMenuA11y:true%2Cspecs.thunderbolt.edixIsInFirstFold:true%2Cspecs.thunderbolt.catharsis_theme:true%2Cspecs.thunderbolt.DatePickerPortal:true%2Cspecs.thunderbolt.native_css_mappers_popups:true%2Cspecs.thunderbolt.hamburgerMenuFocus:true%2Cspecs.thunderbolt.new_responsive_layout_render_all_breakpoints:true%2Cspecs.thunderbolt.DDMenuMigrateCssCarmiMapper:true%2Cspecs.thunderbolt.responsiveShapeDividersPublic:true%2Cspecs.thunderbolt.compsMeasuresCss_catharsis:true%2Cspecs.thunderbolt.customElemCollapsedheight:true%2Cspecs.thunderbolt.url_hierarchy:true%2Cspecs.thunderbolt.scaleprop:true%2Cspecs.thunderbolt.interactionsOverrides:true%2Cspecs.thunderbolt.displayRefComponentsAsBlock:true%2Cspecs.thunderbolt.pinned_layout_css_catharsis:true%2Cspecs.thunderbolt.set_qab_above_all_comps_on_page:true%2Cspecs.thunderbolt.responsiveLayout_optimize_css:true%2Cspecs.thunderbolt.catharsis_fontFaces:true%2Cspecs.thunderbolt.OOICssForWidgetsWithAppSettings:true%2Cspecs.thunderbolt.disable_hover_variant_mobile:true&coBrandingBanner=true&contentType=application%2Fjson&dfCk=6&dfVersion=1.2606.0&editorName=Unknown&experiments=bv_remove_add_chat_viewer_fixer%2Cdm_linkTargetDefaults%2Cdm_removePageDataUnderTranslations%2Cdm_runTranslationsPageUriSeoFixer&externalBaseUrl=https:%2F%2Fwww.sapancaatlasbungalov.com&fileId=6010c058.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=tr&metaSiteId=b0d23a76-6bbc-47a6-81b0-41845c44ff18&module=thunderbolt-platform&originalLanguage=tr&pageId=2d5fff_ee45737f278b5bbd21e06a51bc96a7d1_138.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.11228.0"}]&remoteWidgetStructureBuilderVersion=1.238.0&siteId=2a587625-66b3-4a2a-9fbf-c95340be693a&siteRevision=141&staticHTMLComponentUrl=https:%2F%2Fwww-sapancaatlasbungalov-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.d2412ec4.png
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\editor-elements-library\dist\thunderbolt\media\sloppyframe.d2412ec4.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/santa-resources/dist/viewer/user-site-fonts/fonts/Helvetica/v3/HelveticaLTW04-Roman.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\dist\viewer\user-site-fonts\fonts\Helvetica\v3\HelveticaLTW04-Roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-35Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Avenir_Family_Pack\v1\AvenirLTW05-85Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/BrandonGrot/v1/BrandonGrotesqueCondW05-Lt.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\BrandonGrot\v1\BrandonGrotesqueCondW05-Lt.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/BrandonGrot/v1/BrandonGrotesqueCondW05-Lt.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\BrandonGrot\v1\BrandonGrotesqueCondW05-Lt.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Linotype_Didot/v1/DidotLTW05-Italic.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Linotype_Didot\v1\DidotLTW05-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Linotype_Didot/v1/DidotLTW05-Italic.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\santa-resources\resources\viewer\user-site-fonts\fonts\Linotype_Didot\v1\DidotLTW05-Italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.705.0/siteTags.bundle.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\tag-manager-client\1.705.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\03805817-4611-4dbc-8c65-0f73031c3973.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\05ad458f-263b-413f-b054-6001a987ff3e.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\07d62b21-8d7a-4c36-be86-d32ab1089972.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/09a4b57b-7400-4d30-b4ba-d6e303c57868.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\09a4b57b-7400-4d30-b4ba-d6e303c57868.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\0a3939d0-3833-4db3-8b85-f64c2b3350d2.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\192dac76-a6d9-413d-bb74-22308f2e0cc5.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\1b128d6d-126f-4c9c-8f87-3e7d30a1671c.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\20577853-40a7-4ada-a3fb-dd6e9392f401.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\3516f91d-ac48-42cd-acfe-1be691152cc4.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/375c70e5-6822-492b-8408-7cd350440af7.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\375c70e5-6822-492b-8408-7cd350440af7.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\4021a3b9-f782-438b-aeb4-c008109a8b64.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\4577388c-510f-4366-addb-8b663bcc762a.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\47584448-98c4-436c-89b9-8d6fbeb2a776.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/47f089a6-c8ce-46fa-b98f-03b8c0619d8a.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\47f089a6-c8ce-46fa-b98f-03b8c0619d8a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\61bd362e-7162-46bd-b67e-28f366c4afbe.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\66cac56e-d017-4544-9d0c-f7d978f0c5c2.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\686a6a06-e711-4bd2-b393-8504a497bb3c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/69b40392-453a-438a-a121-a49e5fbc9213.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\69b40392-453a-438a-a121-a49e5fbc9213.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\6af9989e-235b-4c75-8c08-a83bdaef3f66.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\6f8d1983-4d34-4fa4-9110-988f6c495757.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\717f8140-20c9-4892-9815-38b48f14ce2b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\73805f15-38e4-4fb7-8a08-d56bf29b483b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\7da02f05-ae8b-43a1-aeb9-83b3c0527c06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/85060878-ca6c-43cc-ac31-7edccfdca71b.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\85060878-ca6c-43cc-ac31-7edccfdca71b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/86d60a09-e8f8-4003-b688-0f8a2aba6532.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\86d60a09-e8f8-4003-b688-0f8a2aba6532.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\874bbc4a-0091-49f0-93ef-ea4e69c3cc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\8c0d8b0f-d7d6-4a72-a418-c2373e4cbf27.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\908c4810-64db-4b46-bb8e-823eb41f68c0.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/92c941ea-2b06-4b72-9165-17476d424d6c.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\92c941ea-2b06-4b72-9165-17476d424d6c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9362bca5-b362-4543-a051-2129e2def911.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\9362bca5-b362-4543-a051-2129e2def911.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c2cfd19-472b-4ef5-ad73-43eee68dc43b.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\9c2cfd19-472b-4ef5-ad73-43eee68dc43b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\9f774d17-c03a-418e-a375-34f3beecbc7a.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9fe262dc-5a55-4d75-91a4-aed76bd32190.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\9fe262dc-5a55-4d75-91a4-aed76bd32190.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a0cb08d5-975f-4c8d-bcdc-d771a014d92a.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\a0cb08d5-975f-4c8d-bcdc-d771a014d92a.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\a9e95a29-98a7-404a-90ee-1929ad09c696.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/abe3d3a9-c990-459f-9407-54ac96cd2f00.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\abe3d3a9-c990-459f-9407-54ac96cd2f00.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b56b944e-bbe0-4450-a241-de2125d3e682.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\b56b944e-bbe0-4450-a241-de2125d3e682.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b791c850-fde1-48b3-adf0-8998d55b0866.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\b791c850-fde1-48b3-adf0-8998d55b0866.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\bc176270-17fa-4c78-a343-9fe52824e501.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\c0050890-bbed-44b9-94df-2611d72dbb06.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c5749443-93da-4592-b794-42f28d62ef72.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\c5749443-93da-4592-b794-42f28d62ef72.woff
+Content Type: application/x-font-woff
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\d1b1e866-a411-42ba-8f75-72bf28e23694.svg
+Content Type: image/svg+xml
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\d513e15e-8f35-4129-ad05-481815e52625.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e00ba30a-0bf3-4c76-9392-8641fa237a92.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\e00ba30a-0bf3-4c76-9392-8641fa237a92.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\e4bd4516-4480-43df-aa6e-4e9b9029f53e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\edefe737-dc78-4aa3-ad03-3c6f908330ed.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/f70da45a-a05c-490c-ad62-7db4894b012a.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\f70da45a-a05c-490c-ad62-7db4894b012a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\third-party\fonts\user-site-fonts\fonts\ff80873b-6ac3-44f7-b029-1b4111beac76.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.parastorage.com/services/wix-perf-measure/1.1058.0/wix-perf-measure.umd.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\wix-perf-measure\1.1058.0\wix-perf-measure.umd.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.9bf53485.bundle.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\wix-thunderbolt\dist\main.9bf53485.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.308d3009.bundle.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\services\wix-thunderbolt\dist\thunderbolt-commons.308d3009.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEBMHjY5M6rp_NSn2hjKJhfc.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDEBMHjY5M6rp_NSn2hjKJhfc.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDENxHfcsPlDajrhlFKgOPuYg.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDENxHfcsPlDajrhlFKgOPuYg.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgIIidMZaDCgb76Cj_Fd30HHc.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgIIidMZaDCgb76Cj_Fd30HHc.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgIMITpqSvb0EhPNqvdm-qG4s.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgIMITpqSvb0EhPNqvdm-qG4s.woff
+Content Type: font/woff
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@16.14.0/umd/react-dom.production.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\unpkg\react-dom@16.14.0\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@16.14.0/umd/react.production.min.js
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\unpkg\react@16.14.0\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/0f5a53_0800ba31e7ad453a95c8795dfcad23ee~mv2.jpeg/v1/fill/w_232,h_413,q_90/0f5a53_0800ba31e7ad453a95c8795dfcad23ee~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_0800ba31e7ad453a95c8795dfcad23ee~mv2.jpeg\v1\fill\w_232,h_413,q_90\0f5a53_0800ba31e7ad453a95c8795dfcad23ee~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_0c6c54200a064a848d47f9f0442028e0~mv2.jpg/v1/fill/w_161,h_48,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/WhatsApp Image 2022-09-15 at 17_00_edite.jpg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_0c6c54200a064a848d47f9f0442028e0~mv2.jpg\v1\fill\w_161,h_48,al_c,q_80,usm_0.66_1.00_0.01,enc_auto\WhatsApp Image 2022-09-15 at 17_00_edite.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_15b37ac476b145298debef44a2c73808~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_15b37ac476b145298debef44a2c73808~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_15b37ac476b145298debef44a2c73808~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_15b37ac476b145298debef44a2c73808~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_3af1301bae5d4151a81bd79473377206~mv2.jpeg/v1/fit/w_312,h_466,q_90/0f5a53_3af1301bae5d4151a81bd79473377206~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_3af1301bae5d4151a81bd79473377206~mv2.jpeg\v1\fit\w_312,h_466,q_90\0f5a53_3af1301bae5d4151a81bd79473377206~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_3c2e82a6df684216a88258b9ff63c2b6~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_41b53f72e57f4c118e148517278fa0c3~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_41c52732846e4af48c639c72ac08b040~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_41c52732846e4af48c639c72ac08b040~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_41c52732846e4af48c639c72ac08b040~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_41c52732846e4af48c639c72ac08b040~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg/v1/fit/w_312,h_466,q_90/0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg\v1\fit\w_312,h_466,q_90\0f5a53_7b0b924a9a244ed9abd1580bbe937958~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg/v1/fit/w_312,h_466,q_90/0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg\v1\fit\w_312,h_466,q_90\0f5a53_7ff7857dd2ba4902be44e08ad8722f43~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\0f5a53_907a2d3b83e24e3fb415a094f6c20c8a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_93b7b493eb0043d88f23c8573aebf23f~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_b307062ac3664b359a1957df04c3103c~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_bb15b0e37c5f40ef8d347734ec6bc801~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_bb15b0e37c5f40ef8d347734ec6bc801~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_bb15b0e37c5f40ef8d347734ec6bc801~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_bb15b0e37c5f40ef8d347734ec6bc801~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_c1a9e56c2da84b15bae4d0dc34bcc033~mv2.jpeg/v1/fill/w_232,h_413,q_90/0f5a53_c1a9e56c2da84b15bae4d0dc34bcc033~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_c1a9e56c2da84b15bae4d0dc34bcc033~mv2.jpeg\v1\fill\w_232,h_413,q_90\0f5a53_c1a9e56c2da84b15bae4d0dc34bcc033~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_c1bfbbd3b608499797937839a8051a65~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_d763b1e108db48afa553a18ebe44a1df~mv2.png/v1/fill/w_232,h_413,q_90/0f5a53_d763b1e108db48afa553a18ebe44a1df~mv2.png
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_d763b1e108db48afa553a18ebe44a1df~mv2.png\v1\fill\w_232,h_413,q_90\0f5a53_d763b1e108db48afa553a18ebe44a1df~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_d98c228293a245dd90fec552eaaa7130~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg/v1/fit/w_309,h_464,q_90/0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg\v1\fit\w_309,h_464,q_90\0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg/v1/fit/w_311,h_466,q_90/0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\media\0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg\v1\fit\w_311,h_466,q_90\0f5a53_e77088c0217947df86ce8e7074b0e4fa~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_d2b74fa2704044fa98373433c883f8ed/ttf/file.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_d2b74fa2704044fa98373433c883f8ed\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_d2b74fa2704044fa98373433c883f8ed/woff/file.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_d2b74fa2704044fa98373433c883f8ed\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_d2b74fa2704044fa98373433c883f8ed/woff2/file.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_d2b74fa2704044fa98373433c883f8ed\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_fbe2048d9f994d8c8d5073ed8164a33e/ttf/file.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_fbe2048d9f994d8c8d5073ed8164a33e\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_fbe2048d9f994d8c8d5073ed8164a33e/woff/file.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_fbe2048d9f994d8c8d5073ed8164a33e\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/3f090f_fbe2048d9f994d8c8d5073ed8164a33e/woff2/file.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\3f090f_fbe2048d9f994d8c8d5073ed8164a33e\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/459113_5846594cb6ea4f43b8e132f9d1a29629/ttf/file.ttf
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\459113_5846594cb6ea4f43b8e132f9d1a29629\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/459113_5846594cb6ea4f43b8e132f9d1a29629/woff/file.woff
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\459113_5846594cb6ea4f43b8e132f9d1a29629\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/459113_5846594cb6ea4f43b8e132f9d1a29629/woff2/file.woff2
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\ufonts\459113_5846594cb6ea4f43b8e132f9d1a29629\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.sapancaatlasbungalov.com/
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\index.htm
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/bungalov
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\bungalov.html
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/cerez-politikasi
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\cerez-politikasi.html
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/galeri
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\galeri.html
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/tiny-house
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\tiny-house.html
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/veri-gizliligi
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\veri-gizliligi.html
+Content Type: text/html
+
+Uri: https://www.sapancaatlasbungalov.com/yasal-uyarilar
+File Name: C:\Users\babae\OneDrive\Masaüstü\bungalov\www.sapancaatlasbungalov.com\yasal-uyarilar.html
+Content Type: text/html
+
